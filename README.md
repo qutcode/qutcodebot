@@ -1,5 +1,7 @@
 # qutcodebot
-So this is the offical #qutcode IRC bot.
+So this is the offical #qutcode IRC bot repo.
+
+# Haskell QUT Bot [bot.hs]
 Currently it will only mirror what you say and tell you how long it has been running.
 Future feature will be:
   - retrieve wikipedia links for given keyword (e.g. "qutcodebot search qut")
@@ -13,3 +15,8 @@ I have quite clearly taken the code from [this example](https://wiki.haskell.org
 Eventually, this bot will be on someones server, always on, but for the moment when I am on #qutcode I will have it on. If anyone wants to test their own version just change the `nick` value and you are good to go.
 
 Enjoy :)
+
+# Erlang QUT Bot [erlbot.erl]
+
+Currently it replies to anyone who addresses it by name. Erly[heh] commit.
+
