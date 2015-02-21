@@ -1,4 +1,4 @@
--module(bot).
+-module(erlbot).
 -author("QUT Code").
 -export([connect/2, loop/1]).
 -define(nickname, "MyNameIsErlBot").
